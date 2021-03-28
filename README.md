@@ -1,8 +1,8 @@
 # Projeto Gerência
 
 ## Objetivos do projeto
-* Testar repósitorios remotos
-* Clonar repósitorio
+* Testar repositórios remotos
+* Clonar repositório
 * Fazer Push
 * Fazer Pull
 
